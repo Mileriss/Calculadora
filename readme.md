@@ -3,6 +3,8 @@
 Calculadora criada para praticar um pouco do uso de HTML, CSS e Javascript, principalmente como manipular classes utilizando o DOM.  
 É um projeto bem simples e eu coloquei essa alteração de estilo pra tornar mais dinamico e bonito visualmente.  
 
+## Acessar o projeto: <a href="https://htmlpreview.github.io/?https://github.com/Mileriss/Calculadora/blob/main/index.html" target="_blank">Calculadora Javascript</a>  
+
 ## Estilos disponíveis  
 **Padrão**  
 <img src="https://github.com/Mileriss/Calculadora/blob/main/Imagens/padrao.png?raw=true" height="350px" width="auto">  
